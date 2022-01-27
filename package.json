@@ -64,7 +64,7 @@
     "slick-carousel": "^1.8.1",
     "social-media-icons-react": "^1.0.10",
     "styled-components": "^5.1.1",
-    "three": "^0.117.1",
+    "three": "^0.137.0",
     "typescript": "^3.9.5",
     "video-react": "^0.14.1",
     "video.js": "^7.8.2",
